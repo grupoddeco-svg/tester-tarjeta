@@ -1,0 +1,8 @@
+{
+  "name": "metalform-store",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"dev": "next dev", "build": "next build", "start": "next start", "lint": "eslint ."},
+  "dependencies": {"next": "latest", "react": "latest", "react-dom": "latest", "motion": "latest", "lucide-react": "latest"},
+  "devDependencies": {"typescript": "^5", "@types/node": "^22", "@types/react": "^19", "@types/react-dom": "^19", "eslint": "^9", "eslint-config-next": "latest"}
+}
